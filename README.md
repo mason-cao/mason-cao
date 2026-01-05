@@ -10,7 +10,7 @@ Aspiring Computer Science & Engineering Major
 </p>
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://mason-cao.github.io/">Visit My Portfolio Website</a>
+<a href="https://mason-cao.github.io/">Visit My Portfolio Website</a>
 </p>
 
 👨‍💻 About Me
@@ -30,7 +30,3 @@ I am a high school junior with a strong passion for technology, athletics, and f
 Languages: HTML5, CSS3, JavaScript, Python
 
 Tools: Git, VS Code
-
-<p align="center">
-<i>Let's connect! Check out my <a href="https://www.google.com/search?q=https://mason-cao.github.io/">Portfolio Website</a> for more details.</i>
-</p>
