@@ -31,16 +31,6 @@ Languages: HTML5, CSS3, JavaScript, Python
 
 Tools: Git, VS Code
 
-🏆 Achievements
-
-AP Scholar with Distinction (2025)
-
-FBLA Regional Qualifier: Data Science & AI (2025-26)
-
-DECA Region 6: 2nd Place Entrepreneurship Team
-
-Presidential Volunteer Service Award: Gold & Bronze Recipient
-
 <p align="center">
 <i>Let's connect! Check out my <a href="https://www.google.com/search?q=https://mason-cao.github.io/">Portfolio Website</a> for more details.</i>
 </p>
