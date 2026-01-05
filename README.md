@@ -21,7 +21,7 @@ I am a high school junior with a strong passion for technology, athletics, and f
 
 🏊 Athletics: Varsity Swim Team Captain & State Qualifier (Breaststroke/IM).
 
-🎵 Music: Principal Bass Clarinetist & 4x GMEA All-State Band Member.
+🎵 Music: Principal Bass Clarinetist & 4x GMEA All-State Band Member on both Soprano and Bass.
 
 💼 Leadership: Founder of Heads Up Club, Secretary of First Step, and AMS Pools Head Lifeguard.
 
