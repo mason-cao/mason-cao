@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Mason Cao! 👋</h1>
 
-<!--
-**mason-cao/mason-cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<b>Student at Lambert High School (C/O 27)</b>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Aspiring Computer Science & Engineering Major
+</p>
+
+<p align="center">
+<a href="https://www.google.com/search?q=https://mason-cao.github.io/">Visit My Portfolio Website</a>
+</p>
+
+👨‍💻 About Me
+
+I am a high school junior with a strong passion for technology, athletics, and fine arts. I love combining leadership with technical skills to create meaningful projects.
+
+🎓 Academics: Ranked 11/846 (99th Percentile) with a 4.48 GPA & 1540 SAT.
+
+🏊 Athletics: Varsity Swim Team Captain & State Qualifier (Breaststroke/IM).
+
+🎵 Music: Principal Bass Clarinetist & 4x GMEA All-State Band Member.
+
+💼 Leadership: Founder of Heads Up Club, Secretary of First Step, and AMS Pools Head Lifeguard.
+
+🛠️ Languages & Tools
+
+Languages: HTML5, CSS3, JavaScript, Python
+
+Tools: Git, VS Code
+
+🏆 Achievements
+
+AP Scholar with Distinction (2025)
+
+FBLA Regional Qualifier: Data Science & AI (2025-26)
+
+DECA Region 6: 2nd Place Entrepreneurship Team
+
+Presidential Volunteer Service Award: Gold & Bronze Recipient
+
+<p align="center">
+<i>Let's connect! Check out my <a href="https://www.google.com/search?q=https://mason-cao.github.io/">Portfolio Website</a> for more details.</i>
+</p>
