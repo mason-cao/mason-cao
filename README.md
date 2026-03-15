@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Mason Cao! 👋</h1>
 
 <p align="center">
-  <b>Student at Lambert High School (C/O 27)</b><br>
+  <b>Student at Lambert High School in Suwanee, Georgia(C/O 27)</b><br>
   Aspiring Computer Science & Engineering Major
 </p>
 
 <p align="center">
-  <a href="https://mason-cao.github.io/">Visit My Portfolio Website</a> | <a href="https://www.linkedin.com/in/mason-cao-7a3760390">LinkedIn</a>
+  <a href="https://mason-cao.github.io/">Visit My Portfolio Website</a> |
 </p>
 
 ---
@@ -18,7 +18,7 @@ I am a high school junior with a strong passion for technology, athletics, and f
 * 🎓 **Academics:** Ranked 11/846 (99th Percentile) with a 4.48 GPA & 1540 SAT.
 * 🏆 **Competitions:** 1st Place DECA State Champion (ETDM), FBLA National Qualifier & 4th in State (Networking), 3rd in State (Data Science & AI).
 * 🏊 **Athletics:** Varsity Swim Team Captain, GHSA State Qualifier (Breaststroke/IM), & Best of the South Qualifier.
-* 🎵 **Music:** Principal Bass Clarinetist & 4x GMEA All-State Band Member on both Soprano and Bass.
+* 🎵 **Music:** Principal Bass Clarinetist for the Lambert High School Wind Ensemble & 5x GMEA All-State Band Member on both Soprano and Bass Clarinet.
 * 💼 **Leadership:** Founder of Heads Up Club, Secretary of First Step, and AMS Pools Head Lifeguard.
 
 ---
