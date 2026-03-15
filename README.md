@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mason-cao.github.io/">Visit My Portfolio Website</a> |
+  <a href="https://mason-cao.github.io/">Visit My Portfolio Website</a>
 </p>
 
 ---
