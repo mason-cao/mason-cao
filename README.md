@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mason Cao! 👋</h1>
 
 <p align="center">
-  <b>Student at Lambert High School (C/O 27)</b><br>
+  <b>Student at Lambert High School (C/O 27) in Suwanee, GA</b><br>
   Aspiring Computer Science & Engineering Major
 </p>
 
