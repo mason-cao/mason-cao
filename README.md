@@ -26,4 +26,4 @@ I am a high school junior with a strong passion for technology, athletics, and f
 ### 🛠️ Languages & Tools
 
 * **Languages:** Python, Java, C, SQL, HTML5, CSS3, JavaScript
-* **Tools:** Git, VS Code
+* **Tools:** Git/GitHub, VS Code
