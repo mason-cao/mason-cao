@@ -18,7 +18,7 @@ I am a high school junior with a strong passion for technology, athletics, and f
 * 💻 **Extra Coursework:** Completed Harvard CS50 & MIT BWSIX Computer Science and Systems.
 * 🏆 **Competitions:** 1st Place DECA State Champion (ETDM) and ICDC International Qualifier, FBLA National Qualifier & 4th in State (Networking Infrastructure), 3rd in State (Data Science & AI).
 * 🏊 **Athletics:** Varsity Swim Team Captain, GHSA State Qualifier (Breaststroke/IM), & Best of the South Qualifier.
-* 🎵 **Music:** Principal Bass Clarinetist of the Lambert High School Wind Ensemble & 5x GMEA All-State Band Member on both Soprano and Bass Clarinet.
+* 🎵 **Music:** Principal Bass Clarinet of the Lambert High School Wind Ensemble & 5x GMEA All-State Band Member on both Soprano and Bass Clarinet.
 * 💼 **Leadership:** Founder of Heads Up Club, Secretary of First Step, and AMS Pools Head Lifeguard.
 
 ---
