@@ -8,9 +8,6 @@
   <a href="mailto:masoncao7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/mason-cao">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 ---
@@ -50,8 +47,8 @@ I'm a high school student and developer with a focus on building full-stack appl
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mason-cao&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason-cao&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mason-cao&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&cache_seconds=86400&v=1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason-cao&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&cache_seconds=86400&v=1" width="48%" />
 </div>
 
 ---
