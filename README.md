@@ -47,8 +47,7 @@ I'm a high school student and developer with a focus on building full-stack appl
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mason-cao&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&cache_seconds=86400&v=1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason-cao&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&cache_seconds=86400&v=1" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=mason-cao&theme=transparent&hide_border=true&title_color=3B82F6&date_format=j%20M%5B%20Y%5D" width="80%" />
 </div>
 
 ---
