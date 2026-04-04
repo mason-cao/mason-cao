@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://mason-cao.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/mason-cao-7a3760390/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
