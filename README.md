@@ -74,6 +74,7 @@ I'm a high school student and developer with a focus on building full-stack appl
 
 **Extracurricular Impact**
 * **First Step Nonprofit (Secretary & Project Lead):** Directed 300+ volunteers for 240+ initiatives, removing 2,500+ lbs of trash and raising $17,890+. Secured a $5,000 Bloomberg Youth Climate Action Fund grant for microplastics research. Accumulated 300+ personal volunteer hours.
+* **Community Educator:** Tutored 50+ local youth in Mathematics, English, and foundational programming (Scratch) within the Chinese community.
 * **Varsity Swimming:** Team Captain, GHSA State Qualifier, Club swimmer ranked 38th in Georgia.
 * **Instrumental Music:** Principal Bass Clarinetist & 5x GMEA All-State Band selection on soprano and bass clarinet. 
 * **Presidential Volunteer Service Award:** Gold (2023) & Bronze (2024)
