@@ -47,7 +47,7 @@ I'm a high school student and developer with a focus on building full-stack appl
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mason-cao&theme=transparent&hide_border=true&title_color=3B82F6&date_format=j%20M%5B%20Y%5D" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=mason-cao&theme=transparent&hide_border=true&title_color=3B82F6&date_format=j%20M%5B%20Y%5D&v=1" width="80%" />
 </div>
 
 ---
