@@ -67,6 +67,7 @@ I'm a high school student and developer with a focus on building full-stack appl
 <br>
 
 **Competitive Events & Academics**
+* **USA Computing Olympiad (USACO) Gold Division:** Promoted to the Gold tier after scoring a 708 in the 2026 Silver Contest.
 * **DECA:** State Champion & International Qualifier (ICDC) — 1st Place, Entrepreneurship Team Decision Making
 * **FBLA:** State Placements & National Qualifier — 4th in Networking Infrastructures; 3rd in Data Science & AI
 * **Georgia State President’s List:** Dual enrollment, 5.0 GPA
