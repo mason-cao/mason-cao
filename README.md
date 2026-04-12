@@ -22,7 +22,7 @@
 ---
 
 ### About Me
-I'm a high school student and developer with a focus on building full-stack applications, AI agent pipelines, and practical data tools. Whether it's training cross-validation churn prediction models or managing concurrent database operations, I love tackling complex backend logic and bringing it to life with modern frontend frameworks. 
+I'm a high school student at Lambert High School and a developer with a focus on building full-stack applications, AI agent pipelines, and practical data tools. Whether it's training cross-validation churn prediction models or managing concurrent database operations, I love tackling complex backend logic and bringing it to life with modern frontend frameworks. 
 
 - **Currently building:** Luminosity Intelligence (Multi-Agent Customer Intel) & A.E.R.I.S (Environmental Intel)
 - **Coursework Completed:** Harvard CS50 & MIT Beaver Works Summer Institute (CS Core)
