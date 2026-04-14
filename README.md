@@ -85,16 +85,16 @@ I'm a high school student at Lambert High School and a developer with a focus on
 
 **Competitive Events & Academics**
 * **USA Computing Olympiad (USACO) Gold Division:** Promoted to the Gold tier after scoring a 760 in the 2026 Silver Contest.
-* **DECA:** State Champion & International Qualifier (ICDC) — 1st Place, Entrepreneurship Team Decision Making
-* **FBLA:** State Placements & National Qualifier — 4th in Networking Infrastructures; 5th in Data Science & AI
-* **Georgia State President’s List:** Dual enrollment, 5.0 GPA
-* **AP Scholar with Distinction (2025) & College Board National Recognition Award (2025)**
+* **DECA:** State Champion & International Qualifier (ICDC) — 1st Place, Entrepreneurship Team Decision Making.
+* **FBLA:** State Placements & National Qualifier — 4th in Networking Infrastructures; 5th in Data Science & AI.
+* **Academic Excellence:** Georgia Certificate of Merit (Top 5% of class), Georgia State President’s List (Dual enrollment, 5.0 GPA), AP Scholar with Distinction (2025), and College Board National Recognition Award (2025).
 
 **Extracurricular Impact**
 * **First Step Nonprofit (Secretary & Project Lead):** Directed 300+ volunteers for 240+ initiatives, removing 2,500+ lbs of trash and raising $17,890+. Secured a $5,000 Bloomberg Youth Climate Action Fund grant for microplastics research. Accumulated 300+ personal volunteer hours.
 * **Community Educator:** Tutored 52 local youth in 2 summers in Mathematics, English, and foundational programming (Scratch) within the Chinese community.
 * **Varsity Swimming:** Team Captain, GHSA State Qualifier, Club swimmer ranked 38th in Georgia.
 * **Instrumental Music:** Principal Bass Clarinetist & 5x GMEA All-State Band selection on soprano and bass clarinet. 
-* **Presidential Volunteer Service Award:** Gold (2023) & Bronze (2024)
+* **Affiliations & Societies:** Google Developer Program, National Technical Honor Society, Spanish Honor Society (peer tutor), and Key Club.
+* **Presidential Volunteer Service Award:** Gold (2023) & Bronze (2024).
 
 </details>
