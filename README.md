@@ -25,7 +25,8 @@
 I'm a high school student at Lambert High School and a developer with a focus on building full-stack applications, AI agent pipelines, and practical data tools. Whether it's training cross-validation churn prediction models or managing concurrent database operations, I love tackling complex backend logic and bringing it to life with modern frontend frameworks. 
 
 - **Currently building:** Luminosity Intelligence (Multi-Agent Customer Intel) & A.E.R.I.S (Environmental Intel)
-- **Coursework Completed:** Harvard CS50 & MIT Beaver Works Summer Institute (CS Core)
+- **Advanced Coursework:** Harvard CS50 & MIT Beaver Works Summer Institute (CS Core)
+- **Currently Pursuing:** NVIDIA Certified Associate (Generative AI LLMs), alongside independent studies in Stanford CS224N (NLP & Transformers) and MIT 6.S191 (Deep Learning).
 - **Leadership:** Secretary & Project Lead at First Step | Head Lifeguard at AMS Pools
 - **Beyond the screen:** I have 300+ hours of volunteer service. I'm also a Varsity Swimming Team Captain (State Qualifier) and a 5x GMEA All-State musician playing the soprano and bass clarinet.
 
