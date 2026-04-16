@@ -27,7 +27,7 @@ I'm a high school student at Lambert High School and a developer with a focus on
 - **Currently building:** A.E.R.I.S (Environmental Intel)
 - **Currently Pursuing:** NVIDIA Certified Associate (Generative AI LLMs) & Red Hat Certified System Administrator (RHCSA), alongside independent studies in Stanford CS224N (NLP & Transformers) and MIT 6.S191 (Deep Learning).
 - **Advanced Coursework:** Harvard CS50 & MIT Beaver Works Summer Institute (CS Core)
-- **Leadership:** Secretary & Project Lead at First Step | Head Lifeguard at AMS Pools
+- **Leadership:** Secretary & Project Lead at First Step | Pool Manager at AMS Pools
 - **Beyond the screen:** I have 300+ hours of volunteer service. I'm also a Varsity Swimming Team Captain (State Qualifier) and a 5x GMEA All-State musician playing the soprano and bass clarinet.
 
 ---
