@@ -25,6 +25,7 @@
 I'm a high school student at Lambert High School and a developer with a focus on building full-stack applications, AI agent pipelines, and practical data tools. Whether it's training cross-validation churn prediction models or managing concurrent database operations, I love tackling complex backend logic and bringing it to life with modern frontend frameworks. 
 
 - **Currently building:** A.E.R.I.S (Environmental Intel)
+- **Certifications:** IT Specialist in Software Development (Certiport)
 - **Currently Pursuing:** NVIDIA Certified Associate (Generative AI LLMs) & Red Hat Certified System Administrator (RHCSA), alongside independent studies in Stanford CS224N (NLP & Transformers) and MIT 6.S191 (Deep Learning).
 - **Advanced Coursework:** Harvard CS50 & MIT Beaver Works Summer Institute (CS Core)
 - **Leadership:** Secretary & Project Lead at First Step | Pool Manager at AMS Pools
