@@ -25,6 +25,7 @@
 I'm a high school student at Lambert High School and a developer with a focus on building full-stack applications, AI agent pipelines, and practical data tools. Whether it's training cross-validation churn prediction models or managing concurrent database operations, I love tackling complex backend logic and bringing it to life with modern frontend frameworks. 
 
 - **Currently building:** A.E.R.I.S (Environmental Intel)
+- **Incoming:** Research Intern, NASA Data Science & Scholarly Research Program (Selected for a 50-student cohort to analyze NASA TESS and JWST exoplanet data)
 - **Certifications:** IT Specialist in Software Development (Certiport)
 - **Currently Pursuing:** NVIDIA Certified Associate (Generative AI LLMs) & Red Hat Certified System Administrator (RHCSA), alongside independent studies in Stanford CS224N (NLP & Transformers) and MIT 6.S191 (Deep Learning).
 - **Advanced Coursework:** Harvard CS50 & MIT Beaver Works Summer Institute (CS Core)
@@ -86,6 +87,7 @@ I'm a high school student at Lambert High School and a developer with a focus on
 <br>
 
 **Competitive Events & Academics**
+* **NASA Data Science and Scholarly Research Program:** Incoming Summer 2026 Research Intern. Selected as one of roughly 50 students for a highly competitive cohort to conduct time-series and Bayesian statistical analysis on NASA TESS and JWST datasets. Will be working under a NASA Principal Investigator to validate exoplanet candidates and publish a formal scholarly paper.
 * **USA Computing Olympiad (USACO) Gold Division:** Promoted to the Gold tier after scoring a 760 in the 2026 Silver Contest.
 * **DECA:** State Champion & International Qualifier (ICDC) — 1st Place, Entrepreneurship Team Decision Making.
 * **FBLA:** State Placements & National Qualifier — 4th in Networking Infrastructures; 5th in Data Science & AI.
