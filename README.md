@@ -76,7 +76,7 @@ I'm a high school student at Lambert High School and a developer with a focus on
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mason-cao&theme=transparent&hide_border=true&title_color=3B82F6&date_format=j%20M%5B%20Y%5D&v=12" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=mason-cao&theme=transparent&hide_border=true&title_color=3B82F6&date_format=j%20M%5B%20Y%5D&v=13" width="80%" />
 </div>
 
 ---
