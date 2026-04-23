@@ -22,7 +22,7 @@
 ---
 
 ### About Me
-I'm a high school student at Lambert High School and a developer with a focus on building full-stack applications, AI agent pipelines, and practical data tools. Whether it's training cross-validation churn prediction models or managing concurrent database operations, I love tackling complex backend logic and bringing it to life with modern frontend frameworks. 
+I'm a junior at Lambert High School who loves building out full-stack applications and custom data infrastructure. Right now I am heavily focused on autonomous AI pipelines and local LLM deployments. I just enjoy turning complicated backend logic into tools that actually make a real-world impact.
 
 - **Currently building:** A.E.R.I.S (Environmental Intel)
 - **Incoming:** Research Intern, NASA Data Science & Scholarly Research Program (Selected for a 50-student cohort to analyze NASA TESS and JWST exoplanet data)
