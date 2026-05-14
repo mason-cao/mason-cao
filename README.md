@@ -22,14 +22,14 @@
 ---
 
 ### About Me
-I'm a junior at Lambert High School who loves building out full-stack applications and custom data infrastructure. Right now I am heavily focused on autonomous AI pipelines and local LLM deployments. I just enjoy turning complicated backend logic into tools that actually make a real-world impact.
+I'm a junior at Lambert High School working at the intersection of environmental and computer science who loves building out full-stack applications and custom data infrastructure. Right now I am heavily focused on autonomous AI pipelines and local LLM deployments. I just enjoy turning complicated backend logic into tools that actually make a real-world impact.
 
 - **Currently building:** A.E.R.I.S (Environmental Intel)
-- **Incoming:** Research Intern, NASA Data Science & Scholarly Research Program (Selected for a 50-student cohort to analyze NASA TESS and JWST exoplanet data)
+- **Incoming:** Research Intern, NASA Data Science & Research Internship (Developing Python-based statistical workflows to analyze TESS and JWST datasets and map habitability markers).
 - **Certifications:** IT Specialist in Software Development (Certiport)
 - **Currently Pursuing:** NVIDIA Certified Associate (Generative AI LLMs) & Red Hat Certified System Administrator (RHCSA), alongside independent studies in Stanford CS224N (NLP & Transformers) and MIT 6.S191 (Deep Learning).
 - **Advanced Coursework:** Harvard CS50 & MIT Beaver Works Summer Institute (CS Core)
-- **Leadership:** Secretary & Project Lead at First Step | Pool Manager at AMS Pools
+- **Leadership:** Secretary & Director of Operations at First Step | Pool Manager at AMS Pools
 - **Beyond the screen:** I have 300+ hours of volunteer service. I'm also a Varsity Swimming Team Captain (State Qualifier) and a 5x GMEA All-State musician playing the soprano and bass clarinet.
 
 ---
@@ -87,7 +87,7 @@ I'm a junior at Lambert High School who loves building out full-stack applicatio
 <br>
 
 **Competitive Events & Academics**
-* **NASA Data Science and Scholarly Research Program:** Incoming Summer 2026 Research Intern. Selected as one of roughly 50 students for a highly competitive cohort to conduct time-series and Bayesian statistical analysis on NASA TESS and JWST datasets. Will be working under a NASA Principal Investigator to validate exoplanet candidates and publish a formal scholarly paper.
+* **NASA Data Science and Scholarly Research Program:** Incoming Summer 2026 Research Intern. Under the guidance of a NASA principal investigator, I will build Python-based statistical workflows for publication-track astrophysics research. Utilizing AstroImageJ and Jupyter, I will analyze TESS and JWST remote sensing data using Bayesian inference to separate genuine planetary signals from background noise and map markers of habitability at scale.
 * **USA Computing Olympiad (USACO) Gold Division:** Promoted to the Gold tier after scoring a 760 in the 2026 Silver Contest.
 * **DECA:** State Champion & International Qualifier (ICDC) — 1st Place, Entrepreneurship Team Decision Making.
 * **FBLA:** State Placements & National Qualifier — 4th in Networking Infrastructures; 5th in Data Science & AI.
