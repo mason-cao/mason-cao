@@ -96,7 +96,7 @@ I'm a junior at Lambert High School working at the intersection of environmental
 **Extracurricular Impact**
 * **First Step Nonprofit (Secretary & Project Lead):** Directed 300+ volunteers for 240+ initiatives, removing 2,500+ lbs of trash and raising $17,890+. Secured a $5,000 Bloomberg Youth Climate Action Fund grant for microplastics research. Accumulated 300+ personal volunteer hours.
 * **Community Educator:** Tutored 52 local youth in 2 summers in Mathematics, English, and foundational programming (Scratch) within the Chinese community.
-* **Varsity Swimming:** Team Captain, GHSA State Qualifier, Club swimmer ranked 38th in Georgia.
+* **Varsity Swimming:** Team Captain, GHSA State Qualifier, Swim Atlanta Senior Select (Championship qualifier).
 * **Instrumental Music:** Principal Bass Clarinetist & 5x GMEA All-State Band selection on soprano and bass clarinet. 
 * **Affiliations & Societies:** Google Developer Program, National Technical Honor Society, Spanish Honor Society (peer tutor), and Key Club.
 * **Presidential Volunteer Service Award:** Gold (2023) & Bronze (2024).
