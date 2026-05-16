@@ -87,7 +87,7 @@ I'm a junior at Lambert High School working at the intersection of environmental
 <br>
 
 **Competitive Events & Academics**
-* **NASA Data Science and Scholarly Research Program:** Incoming Summer 2026 Research Intern. Under the guidance of a NASA principal investigator, I will build Python-based statistical workflows for publication-track astrophysics research. Utilizing AstroImageJ and Jupyter, I will analyze TESS and JWST remote sensing data using Bayesian inference to separate genuine planetary signals from background noise and map markers of habitability at scale.
+* **NASA Data Science and Scholarly Research:** Incoming Summer 2026 Research Intern. Under the guidance of a NASA principal investigator, I will build Python-based statistical workflows for publication-track astrophysics research. Utilizing AstroImageJ and Jupyter, I will analyze TESS and JWST remote sensing data using Bayesian inference to separate genuine planetary signals from background noise and map markers of habitability at scale.
 * **USA Computing Olympiad (USACO) Gold Division:** Promoted to the Gold tier after scoring a 760 in the 2026 Silver Contest.
 * **DECA:** State Champion & International Qualifier (ICDC) — 1st Place, Entrepreneurship Team Decision Making.
 * **FBLA:** State Placements & National Qualifier — 4th in Networking Infrastructures; 5th in Data Science & AI.
