@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Hello+World!+I'm+Mason+Cao;Building+Local+AI+%26+Data+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Hello+World!+I'm+Mason+Cao;Class+of+2027" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -14,77 +14,91 @@
   <a href="mailto:masoncao7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.instagram.com/m.zcao/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
 ---
 
-```javascript
-const mason = {
-    status: "Junior @ Lambert High School",
-    focus: ["Autonomous AI", "Data Infrastructure", "Full-Stack Development"],
-    research: "Evaluating local LLM climate anomaly attribution (A.E.R.I.S.)",
-    current_build: "A.E.R.I.S. (Self-hosted environmental intelligence)",
-    incoming: "NASA Data Science Research Intern (Summer 2026)",
-    competitions: ["USACO Gold Division"],
-    learning: ["NVIDIA Gen AI Certification", "Stanford CS224N", "RHCSA"]
-};
-```
+### About Me
+I'm a junior at Lambert High School working at the intersection of environmental and computer science who loves building out full-stack applications and custom data infrastructure. Right now I am heavily focused on autonomous AI pipelines and local LLM deployments. I just enjoy turning complicated backend logic into tools that actually make a real-world impact.
+
+- **Currently building:** A.E.R.I.S (Environmental Intel)
+- **Incoming:** Research Intern, NASA Data Science & Research Internship (Developing Python-based statistical workflows to analyze TESS and JWST datasets and map habitability markers).
+- **Certifications:** IT Specialist in Software Development (Certiport)
+- **Currently Pursuing:** NVIDIA Certified Associate (Generative AI LLMs) & Red Hat Certified System Administrator (RHCSA), alongside independent studies in Stanford CS224N (NLP & Transformers) and MIT 6.S191 (Deep Learning).
+- **Advanced Coursework:** Harvard CS50 & MIT Beaver Works Summer Institute (CS Core)
+- **Leadership:** Secretary & Director of Operations at First Step | Pool Manager at AMS Pools
+- **Beyond the screen:** I have 300+ hours of volunteer service. I'm also a Varsity Swimming Team Captain (State Qualifier) and a 5x GMEA All-State musician playing the soprano and bass clarinet.
 
 ---
 
 ### Tech Stack & Tools
 
-**Languages** <br>
-<img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/sql-%23003B57.svg?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/AppleScript-%23000000.svg?style=flat-square&logo=apple&logoColor=white" alt="AppleScript" />
+**Languages** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![AppleScript](https://img.shields.io/badge/AppleScript-%23000000.svg?style=flat-square&logo=apple&logoColor=white)
 
-**Frontend** <br>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-<img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" alt="Mapbox GL JS" />
-<img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white" alt="Chart.js" />
-<img src="https://img.shields.io/badge/Recharts-%2322B5BF?style=flat-square" alt="Recharts" />
+**Frontend** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Mapbox GL JS](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-%2322B5BF?style=flat-square)
 
-**Backend & Databases** <br>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" alt="FastAPI" />
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Timescale-%23FDB515.svg?style=flat-square&logo=timescale&logoColor=black" alt="TimescaleDB" />
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+**Backend & Databases** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/Timescale-%23FDB515.svg?style=flat-square&logo=timescale&logoColor=black)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
-**Data Science & AI** <br>
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/statsmodels-%23316192?style=flat-square" alt="statsmodels" />
-<img src="https://img.shields.io/badge/SHAP-%23FF0000?style=flat-square" alt="SHAP" />
-<img src="https://img.shields.io/badge/Ollama-white?style=flat-square&logo=ollama&logoColor=black" alt="Ollama" />
-<img src="https://img.shields.io/badge/ChromaDB-%23131313.svg?style=flat-square" alt="ChromaDB" />
+**Data Science & AI** ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-%23316192?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-%23FF0000?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-white?style=flat-square&logo=ollama&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%23131313.svg?style=flat-square)
 
-**Tools & DevOps** <br>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white" alt="TanStack Query" />
+**Tools & DevOps** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white)
 
 ---
 
-### Analytics & Activity
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mason-cao&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=A3A3A3" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mason-cao&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=A3A3A3" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=mason-cao&theme=transparent&hide_border=true&title_color=3B82F6&date_format=j%20M%5B%20Y%5D&v=14" width="80%" />
 </div>
+
+---
+
+<details>
+<summary>Honors, Awards, & Extracurriculars (Click to Expand)</summary>
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mason-cao&theme=transparent&hide_border=true&title_color=3B82F6&text_color=A3A3A3&date_format=j%20M%5B%20Y%5D&v=14" width="80%" />
-</div>
+**Competitive Events & Academics**
+* **NASA Data Science and Scholarly Research:** Incoming Summer 2026 Research Intern. Under the guidance of a NASA principal investigator, I will build Python-based statistical workflows for publication-track astrophysics research. Utilizing AstroImageJ and Jupyter, I will analyze TESS and JWST remote sensing data using Bayesian inference to separate genuine planetary signals from background noise and map markers of habitability at scale.
+* **USA Computing Olympiad (USACO) Gold Division:** Promoted to the Gold tier after scoring a 760 in the 2026 Silver Contest.
+* **DECA:** State Champion & International Qualifier (ICDC) — 1st Place, Entrepreneurship Team Decision Making.
+* **FBLA:** State Placements & National Qualifier — 4th in Networking Infrastructures; 5th in Data Science & AI.
+* **Academic Excellence:** Georgia Certificate of Merit (Top 5% of class), Georgia State President’s List (Dual enrollment, 5.0 GPA), AP Scholar with Distinction (2025), and College Board National Recognition Award (2025).
+
+**Extracurricular Impact**
+* **First Step Nonprofit (Secretary & Project Lead):** Directed 300+ volunteers for 240+ initiatives, removing 2,500+ lbs of trash and raising $17,890+. Secured a $5,000 Bloomberg Youth Climate Action Fund grant for microplastics research. Accumulated 300+ personal volunteer hours.
+* **Community Educator:** Tutored 52 local youth in 2 summers in Mathematics, English, and foundational programming (Scratch) within the Chinese community.
+* **Varsity Swimming:** Team Captain, GHSA State Qualifier, Swim Atlanta Senior Select (Championship qualifier).
+* **Instrumental Music:** Principal Bass Clarinetist & 5x GMEA All-State Band selection on soprano and bass clarinet. 
+* **Affiliations & Societies:** Google Developer Program, National Technical Honor Society, Spanish Honor Society (peer tutor), and Key Club.
+* **Presidential Volunteer Service Award:** Gold (2023) & Bronze (2024).
+
+</details>
