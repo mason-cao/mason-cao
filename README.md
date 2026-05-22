@@ -74,7 +74,7 @@ I'm a full-stack developer working at the intersection of environmental and comp
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mason-cao&theme=transparent&hide_border=true&title_color=3B82F6&date_format=j%20M%5B%20Y%5D&v=14" width="80%" />
+  <img src="https://streak-stats.demolab.com?user=mason-cao&theme=transparent&hide_border=true&title_color=3B82F6&date_format=j%20M%5B%20Y%5D&v=15" width="80%" />
 </div>
 
 ---
