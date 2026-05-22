@@ -22,7 +22,7 @@
 ---
 
 ### About Me
-I'm a full-stack developer working at the intersection of environmental and computer science who loves building out useful applications and custom data infrastructure with a real-world impact
+I'm a full-stack developer working at the intersection of environmental and computer science who loves building out useful applications and custom data infrastructure with a real-world impact.
 
 - **Currently building:** A.E.R.I.S (Evaluating local LLM climate anomaly attribution)
 - **Incoming:** Research Intern, NASA Data Science & Research Internship (Developing Python-based statistical workflows to analyze TESS and JWST datasets and map habitability markers).
