@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Hello+World!+I'm+Mason+Cao;Class+of+2027" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Hello+World!+I'm+Mason+Cao;Building+Local+AI+%26+Data+Pipelines" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -14,27 +14,34 @@
   <a href="mailto:masoncao7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/m.zcao/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </div>
 
 ---
 
-### About Me
-I'm a junior at Lambert High School working at the intersection of environmental and computer science who loves building out full-stack applications and custom data infrastructure. Right now I am heavily focused on autonomous AI pipelines and local LLM deployments. I just enjoy turning complicated backend logic into tools that actually make a real-world impact.
+### 👨‍💻 About Me
+I am a developer focused on full-stack applications, custom data infrastructure, and autonomous AI pipelines. I specialize in building local LLM deployments and turning complex backend logic into tools that solve real-world problems. 
 
-- **Currently building:** A.E.R.I.S (Environmental Intel)
-- **Incoming:** Research Intern, NASA Data Science & Research Internship (Developing Python-based statistical workflows to analyze TESS and JWST datasets and map habitability markers).
-- **Certifications:** IT Specialist in Software Development (Certiport)
-- **Currently Pursuing:** NVIDIA Certified Associate (Generative AI LLMs) & Red Hat Certified System Administrator (RHCSA), alongside independent studies in Stanford CS224N (NLP & Transformers) and MIT 6.S191 (Deep Learning).
-- **Advanced Coursework:** Harvard CS50 & MIT Beaver Works Summer Institute (CS Core)
-- **Leadership:** Secretary & Director of Operations at First Step | Pool Manager at AMS Pools
-- **Beyond the screen:** I have 300+ hours of volunteer service. I'm also a Varsity Swimming Team Captain (State Qualifier) and a 5x GMEA All-State musician playing the soprano and bass clarinet.
+- 🔭 **Currently building:** AERIS - A self-hosted environmental intelligence platform using a local Llama 3 RAG pipeline to detect and attribute climate anomalies.
+- 🌱 **Currently learning:** Advanced NLP and Deep Learning (Stanford CS224N / MIT 6.S191) alongside NVIDIA Gen AI and Red Hat System Administrator certifications.
+- 🚀 **Incoming:** NASA Data Science research intern, developing Python statistical workflows for TESS and JWST exoplanet validation.
+- 🏆 **Competitive Programming:** USACO Gold Division Competitor.
 
 ---
 
-### Tech Stack & Tools
+### 🛠️ Featured Projects
+
+* **AERIS** | *Python, FastAPI, PostgreSQL, TimescaleDB, React, Llama 3*
+  Autonomous Environmental RAG and Inference System. Integrates 4 atmospheric APIs with a 3-method anomaly detection engine and a local Llama 3 8B model to explain environmental data spikes in real time.
+* **Luminosity Intelligence** | *TypeScript, React 19, SQLite, SHAP*
+  Multi-agent analytics dashboard. Uses 8 specialized agents to process 750K synthetic behavioral events, explaining churn risk via machine learning tree explainers.
+* **Detox** | *Python, Flask, JavaScript, AppleScript*
+  Local-first macOS screen time tracker distributed via Homebrew. Features a Python background daemon, SQLite WAL mode, and a vanilla JS isometric dashboard.
+* **FreshTrack** | *Next.js 15, SQLite, Drizzle ORM*
+  Full-stack household operations dashboard tracking inventory and suggesting recipes to reduce food waste.
+
+---
+
+### 💻 Tech Stack & Tools
 
 **Languages** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
@@ -73,32 +80,8 @@ I'm a junior at Lambert High School working at the intersection of environmental
 
 ---
 
-### GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mason-cao&theme=transparent&hide_border=true&title_color=3B82F6&date_format=j%20M%5B%20Y%5D&v=14" width="80%" />
 </div>
-
----
-
-<details>
-<summary>Honors, Awards, & Extracurriculars (Click to Expand)</summary>
-
-<br>
-
-**Competitive Events & Academics**
-* **NASA Data Science and Scholarly Research:** Incoming Summer 2026 Research Intern. Under the guidance of a NASA principal investigator, I will build Python-based statistical workflows for publication-track astrophysics research. Utilizing AstroImageJ and Jupyter, I will analyze TESS and JWST remote sensing data using Bayesian inference to separate genuine planetary signals from background noise and map markers of habitability at scale.
-* **USA Computing Olympiad (USACO) Gold Division:** Promoted to the Gold tier after scoring a 760 in the 2026 Silver Contest.
-* **DECA:** State Champion & International Qualifier (ICDC) — 1st Place, Entrepreneurship Team Decision Making.
-* **FBLA:** State Placements & National Qualifier — 4th in Networking Infrastructures; 5th in Data Science & AI.
-* **Academic Excellence:** Georgia Certificate of Merit (Top 5% of class), Georgia State President’s List (Dual enrollment, 5.0 GPA), AP Scholar with Distinction (2025), and College Board National Recognition Award (2025).
-
-**Extracurricular Impact**
-* **First Step Nonprofit (Secretary & Project Lead):** Directed 300+ volunteers for 240+ initiatives, removing 2,500+ lbs of trash and raising $17,890+. Secured a $5,000 Bloomberg Youth Climate Action Fund grant for microplastics research. Accumulated 300+ personal volunteer hours.
-* **Community Educator:** Tutored 52 local youth in 2 summers in Mathematics, English, and foundational programming (Scratch) within the Chinese community.
-* **Varsity Swimming:** Team Captain, GHSA State Qualifier, Swim Atlanta Senior Select (Championship qualifier).
-* **Instrumental Music:** Principal Bass Clarinetist & 5x GMEA All-State Band selection on soprano and bass clarinet. 
-* **Affiliations & Societies:** Google Developer Program, National Technical Honor Society, Spanish Honor Society (peer tutor), and Key Club.
-* **Presidential Volunteer Service Award:** Gold (2023) & Bronze (2024).
-
-</details>
