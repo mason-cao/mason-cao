@@ -22,13 +22,13 @@
 ---
 
 ### About Me
-I'm a full-stack developer working at the intersection of environmental and computer science who loves building out useful applications and custom data infrastructure with a real-world impact.
+I'm a student working at the intersection of environmental and computer science who loves developing full-stack, useful applications and custom data infrastructure with a real-world impact.
 
 - **Currently building:** A.E.R.I.S (Evaluating local LLM climate anomaly attribution)
 - **Incoming:** Research Intern, NASA Data Science & Research Internship (Developing Python-based statistical workflows to analyze TESS and JWST datasets and map habitability markers).
 - **Certifications:** IT Specialist in Software Development (Certiport), USACO Gold
 - **Currently Pursuing:** NVIDIA Certified Associate (Generative AI LLMs) & Red Hat Certified System Administrator (RHCSA), alongside independent studies in Stanford CS224N (NLP & Transformers) and MIT 6.S191 (Deep Learning).
-- **Advanced Coursework:** Harvard CS50 & MIT Beaver Works Summer Institute (CS Core)
+- **Advanced Coursework:** Harvard CS50, MIT Beaver Works Summer Institute (CS Core), Stanford SAIL Pre-College Institute for NLP
 
 ---
 
