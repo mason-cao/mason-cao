@@ -22,7 +22,7 @@
 ---
 
 ### About Me
-I'm a student working at the intersection of environmental and computer science who loves developing full-stack, useful applications and custom data infrastructure with a real-world impact.
+I'm a student working at the intersection of environmental and computer science who loves developing purpose oriented applications and custom data infrastructure with a real-world impact.
 
 - **Currently building:** A.E.R.I.S (Evaluating local LLM climate anomaly attribution)
 
