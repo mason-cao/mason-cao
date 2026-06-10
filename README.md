@@ -25,7 +25,7 @@
 I'm a student working at the intersection of environmental and computer science who loves developing purpose oriented applications and custom data infrastructure with a real-world impact. Feel free to reach out to me anytime!
 
 - **Currently building:** A.E.R.I.S (Evaluating local LLM climate anomaly attribution)
-
+- **Seeking Users:** Detox & FreshTrack; looking for initial testers/downloads for initial launch feedback
 ---
 
 ### Tech Stack & Tools
