@@ -1,0 +1,105 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mason Cao Mission Control</title>
+  <desc id="desc">A mission control card showing current projects, focus areas, and launch status.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1000" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0B1726"/>
+      <stop offset="1" stop-color="#102A3B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="75" y1="0" x2="760" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="0.45" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A7F3D0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.133 0 0 0 0 0.827 0 0 0 0 0.933 0 0 0 0.35 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip">
+      <rect x="12" y="12" width="976" height="276" rx="18"/>
+    </clipPath>
+    <style>
+      .bg { fill: url(#panel); }
+      .border { stroke: #1E3A5F; stroke-width: 1; }
+      .grid { stroke: #1E3A5F; stroke-width: 1; opacity: 0.36; }
+      .accent { stroke: url(#accent); }
+      .accentFill { fill: url(#accent); }
+      .title { fill: #F8FAFC; font: 700 26px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; letter-spacing: 2px; }
+      .eyebrow { fill: #7DD3FC; font: 700 11px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; letter-spacing: 2px; }
+      .label { fill: #93A4B8; font: 600 11px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; letter-spacing: 1px; }
+      .body { fill: #CBD5E1; font: 500 14px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .strong { fill: #F8FAFC; font: 700 18px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .small { fill: #8EA3B7; font: 500 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .pillText { fill: #DDF8FF; font: 700 11px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; letter-spacing: 1px; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: center; }
+      .sweep { animation: sweep 5.5s linear infinite; }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.45; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.25); }
+      }
+      @keyframes sweep {
+        from { transform: translateX(-220px); opacity: 0; }
+        12% { opacity: 0.55; }
+        70% { opacity: 0.55; }
+        to { transform: translateX(910px); opacity: 0; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .pulse, .sweep { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <rect x="12" y="12" width="976" height="276" rx="18" class="bg border"/>
+  <g clip-path="url(#clip)">
+    <path d="M12 52H988M12 92H988M12 132H988M12 172H988M12 212H988M12 252H988M80 12V288M160 12V288M240 12V288M320 12V288M400 12V288M480 12V288M560 12V288M640 12V288M720 12V288M800 12V288M880 12V288M960 12V288" class="grid"/>
+    <rect x="-200" y="12" width="90" height="276" fill="#38BDF8" opacity="0.12" class="sweep"/>
+    <circle cx="850" cy="70" r="128" stroke="#38BDF8" stroke-opacity="0.13"/>
+    <circle cx="850" cy="70" r="82" stroke="#34D399" stroke-opacity="0.13"/>
+    <path d="M758 70C790 26 862 6 920 43" stroke="#60A5FA" stroke-opacity="0.35" stroke-width="2"/>
+  </g>
+
+  <g transform="translate(46 42)">
+    <text class="eyebrow" x="0" y="0">PROFILE TELEMETRY</text>
+    <text class="title" x="0" y="34">MISSION CONTROL</text>
+    <text class="body" x="0" y="62">Applied research, climate systems, and custom data infrastructure.</text>
+  </g>
+
+  <g transform="translate(48 102)">
+    <rect x="0" y="0" width="196" height="30" rx="15" fill="#0E7490" opacity="0.55"/>
+    <circle class="pulse" cx="20" cy="15" r="5" fill="#34D399" filter="url(#softGlow)"/>
+    <text class="pillText" x="34" y="19">BUILD MODE ACTIVE</text>
+  </g>
+
+  <g transform="translate(48 158)">
+    <text class="label" x="0" y="0">NOW BUILDING</text>
+    <text class="strong" x="0" y="30">A.E.R.I.S</text>
+    <text class="small" x="0" y="54">Evaluating local LLM climate anomaly attribution.</text>
+    <path d="M0 84H300" stroke="#1E3A5F" stroke-width="1"/>
+    <path d="M0 84C42 58 76 72 112 50C146 29 176 47 210 35C244 22 272 38 300 18" class="accent" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(390 158)">
+    <text class="label" x="0" y="0">LAUNCH QUEUE</text>
+    <g transform="translate(0 22)">
+      <circle cx="8" cy="8" r="4" class="accentFill"/>
+      <text class="body" x="24" y="13">Detox</text>
+      <text class="small" x="94" y="13">tester feedback</text>
+    </g>
+    <g transform="translate(0 56)">
+      <circle cx="8" cy="8" r="4" fill="#60A5FA"/>
+      <text class="body" x="24" y="13">FreshTrack</text>
+      <text class="small" x="128" y="13">launch notes</text>
+    </g>
+    <g transform="translate(0 90)">
+      <circle cx="8" cy="8" r="4" fill="#A7F3D0"/>
+      <text class="body" x="24" y="13">Pinned projects</text>
+      <text class="small" x="168" y="13">demos below</text>
+    </g>
+  </g>
+
+  <path d="M46 266H954" stroke="url(#accent)" stroke-width="1" opacity="0.7"/>
+  <text class="small" x="46" y="282">profile snapshot: active build and launch feedback loop</text>
+  <text class="small" x="804" y="282">mason-cao.github.io</text>
+</svg>

@@ -19,13 +19,25 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="profile/mission-control.svg" alt="Mission control card showing current projects and launch queue" width="100%" />
+</p>
+
 ---
 
 ### About Me
 I'm a student working at the intersection of environmental and computer science who loves developing purpose oriented applications and custom data infrastructure with a real-world impact. Feel free to reach out to me anytime!
 
-- **Currently building:** A.E.R.I.S (Evaluating local LLM climate anomaly attribution)
-- **Seeking Users:** Detox & FreshTrack; looking for initial testers/downloads for initial launch feedback (look below)
+---
+
+### Project Launch Board
+
+| Project | Stage | Looking For | Stack Signal |
+| --- | --- | --- | --- |
+| **A.E.R.I.S** | Active build | Climate anomaly attribution feedback, local LLM eval ideas | Python, local LLMs, climate data |
+| **Detox** | Initial launch | Testers, downloads, UX feedback | TypeScript, app infrastructure |
+| **FreshTrack** | Initial launch | Testers, launch feedback, early user notes | Next.js, data-first product UX |
+
 ---
 
 ### Tech Stack & Tools
