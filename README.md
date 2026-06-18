@@ -19,10 +19,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="profile/mission-control.svg" alt="Mission control card showing current projects and launch queue" width="100%" />
-</p>
-
 ---
 
 ### About Me
