@@ -26,7 +26,7 @@ I'm a student working at the intersection of environmental and computer science 
 
 ---
 
-### Project Launch Board
+### Featured
 
 | Project | Stage | Looking For | Stack Signal |
 | --- | --- | --- | --- |
