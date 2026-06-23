@@ -30,9 +30,9 @@ I'm a student working at the intersection of environmental and computer science 
 
 | Project | Stage | Looking For | Stack Signal |
 | --- | --- | --- | --- |
-| **A.E.R.I.S** | Active build | Climate anomaly attribution feedback, local LLM eval ideas | Python, local LLMs, climate data |
+| **A.E.R.I.S** | Actively Researching | Climate anomaly attribution feedback, local LLM eval ideas | Python, local LLMs, climate data |
+| **FreshTrack** | Deployed | Live user acquisition, product analytics, scaling feedback | Next.js, data-first product UX, zero-downtime |
 | **Detox** | Initial launch | Testers, downloads, UX feedback | TypeScript, app infrastructure |
-| **FreshTrack** | Initial launch | Testers, launch feedback, early user notes | Next.js, data-first product UX |
 
 ---
 
