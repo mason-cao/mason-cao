@@ -14,12 +14,12 @@ Working where software meets the physical world.
     <td><strong><a href="https://github.com/mason-cao/aeris">AERIS</a></strong><br><sub>Local-first environmental intelligence</sub></td>
   </tr>
   <tr>
-    <td width="130"><sub><samp>02 / ASTRONOMY</samp></sub></td>
-    <td><strong><a href="https://github.com/mason-cao/nasa-tess-exoplanet-analysis">TOI-3505.01</a></strong><br><sub>Exoplanet candidate vetting for a GMU/NASA research internship</sub></td>
+    <td width="130"><sub><samp>02 / GEOSPATIAL</samp></sub></td>
+    <td><strong><a href="https://github.com/mason-cao/nasa-tess-exoplanet-analysis">TOI-3505.01</a></strong><br><sub>Exoplanet candidate vetting for a NASA research internship</sub></td>
   </tr>
   <tr>
     <td width="130"><sub><samp>03 / PRODUCT</samp></sub></td>
-    <td><strong><a href="https://github.com/mason-cao/freshtrack">FreshTrack</a></strong><br><sub>A food-waste PWA in production</sub></td>
+    <td><strong><a href="https://github.com/mason-cao/freshtrack">FreshTrack</a></strong><br><sub>A food-waste PWA currently scaling</sub></td>
   </tr>
 </table>
 
