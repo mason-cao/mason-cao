@@ -25,7 +25,7 @@ Working where software meets the physical world.
 
 <sub><samp>WORKING SET</samp></sub>
 
-`Python` &nbsp; `TypeScript` &nbsp; `FastAPI` &nbsp; `PostgreSQL` &nbsp; `Next.js` &nbsp; `Docker`
+`Python` &nbsp; `C++` &nbsp; `SQL` &nbsp; `TypeScript` &nbsp; `React` &nbsp; `TimescaleDB` &nbsp; `FastAPI` &nbsp; `ChromaDB` &nbsp; `Docker`
 
 ---
 
