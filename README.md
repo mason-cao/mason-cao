@@ -7,20 +7,18 @@
   </picture>
 </p>
 
-Senior at Lambert High School in Georgia. Most of what I build has to do with air quality and environmental data. The rest are apps I wanted to exist.
+Senior at Lambert High School in Georgia. I build things that measure the real world, mostly air quality.
 
-**[AERIS](https://github.com/mason-cao/aeris)** &nbsp;Pulls seven live air quality feeds around Houston, finds the odd spikes, and has a local Llama 3 try to explain them. If the other sensors don't back the explanation up, it stays quiet instead of guessing. Mentored by Dr. Annalisa Bracco at Georgia Tech. Made the Earthshot Prize 2026 longlist.
+<img src="assets/g-aeris.svg" height="17" alt=""> &nbsp;**[AERIS](https://github.com/mason-cao/aeris)** &nbsp;<sub>Air quality anomalies across seven live sensor feeds.</sub> &nbsp;<kbd>Earthshot 2026 longlist</kbd>
 
-**[TOI-3505.01](https://github.com/mason-cao/nasa-tess-exoplanet-analysis)** &nbsp;My NASA mentored internship at George Mason. I went looking for a planet crossing its star and didn't find one, so most of the work was showing the no was real and not something I broke while processing the images.
+<img src="assets/g-toi.svg" height="17" alt=""> &nbsp;**[TOI-3505.01](https://github.com/mason-cao/nasa-tess-exoplanet-analysis)** &nbsp;<sub>Exoplanet transit search from my NASA mentored internship.</sub>
 
-**[Detox](https://github.com/mason-cao/detox)** &nbsp;Mac app that tracks your screen time and force quits apps you told it to block. Your data stays on your laptop unless you turn syncing on yourself.
+<img src="assets/g-detox.svg" height="17" alt=""> &nbsp;**[Detox](https://github.com/mason-cao/detox)** &nbsp;<sub>Mac screen time tracker that blocks apps on device.</sub> &nbsp;<sub>[Download ↗](https://github.com/mason-cao/detox/releases)</sub>
 
-**[FreshTrack](https://github.com/mason-cao/freshtrack)** &nbsp;Scan a barcode and it tracks what's in your fridge, warns you before things go bad, and finds recipes that use those up first. [Live](https://freshtrack.up.railway.app).
+<img src="assets/g-freshtrack.svg" height="17" alt=""> &nbsp;**[FreshTrack](https://github.com/mason-cao/freshtrack)** &nbsp;<sub>Fridge tracker that warns you before food spoils.</sub> &nbsp;<sub>[Live ↗](https://freshtrack.up.railway.app)</sub>
 
-**[Nova Core](https://github.com/mason-cao/multi-agent-customer-intelligence-dashboard)** &nbsp;Customer analytics dashboard. Every churn score comes with the reasons behind it instead of just a number. [Live](https://nova-core-systems.vercel.app).
+<img src="assets/g-novacore.svg" height="17" alt=""> &nbsp;**[Nova Core](https://github.com/mason-cao/multi-agent-customer-intelligence-dashboard)** &nbsp;<sub>Customer analytics with churn scores that explain themselves.</sub> &nbsp;<sub>[Live ↗](https://nova-core-systems.vercel.app)</sub>
 
-**[Green Spark AI](https://github.com/ximena-pg-projects/green-spark-ai)** &nbsp;Turns a school's utility bills into a short list of what to fix first and what each costs. Won a Responsible AI award at the USAII hackathon.
-
-Also here: [First Step site](https://github.com/mason-cao/firststep), [browser focus classifier](https://github.com/mason-cao/focused-vs-distracted), [CS224N](https://github.com/mason-cao/Stanford-CS224N-Independent-Study) and [6.S191](https://github.com/mason-cao/MIT-6.S191-Independent-Study) notes, [word Tetris](https://mason-cao.github.io/textris-game/), [the rest](https://github.com/mason-cao?tab=repositories).
+<img src="assets/g-greenspark.svg" height="17" alt=""> &nbsp;**[Green Spark AI](https://github.com/ximena-pg-projects/green-spark-ai)** &nbsp;<sub>Turns school utility bills into a ranked fix list.</sub> &nbsp;<kbd>Responsible AI award</kbd>
 
 <sub><samp>[SITE](https://mason-cao.github.io/)&nbsp;&nbsp;·&nbsp;&nbsp;[LINKEDIN](https://www.linkedin.com/in/mason-cao-7a3760390/)&nbsp;&nbsp;·&nbsp;&nbsp;[EMAIL](mailto:masoncao7@gmail.com)</samp></sub>
