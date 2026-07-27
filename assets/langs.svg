@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 22" width="1000" height="22" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 12" width="1000" height="12" role="img">
 <title>Language mix across my repositories</title>
-<rect x="0.0" y="0" width="619.8" height="22" rx="4" fill="#3572A5"/>
-<rect x="623.8" y="0" width="213.7" height="22" rx="4" fill="#3178C6"/>
-<rect x="841.5" y="0" width="76.3" height="22" rx="4" fill="#F1E05A"/>
-<rect x="921.7" y="0" width="44.7" height="22" rx="4" fill="#663399"/>
-<rect x="970.4" y="0" width="20.8" height="22" rx="4" fill="#E34C26"/>
-<rect x="995.2" y="0" width="6.0" height="22" rx="4" fill="#7D8590"/>
+<rect x="0.0" y="0" width="616.6" height="12" rx="3" fill="#3572A5"/>
+<rect x="621.6" y="0" width="212.6" height="12" rx="3" fill="#3178C6"/>
+<rect x="839.2" y="0" width="75.9" height="12" rx="3" fill="#F1E05A"/>
+<rect x="920.1" y="0" width="44.5" height="12" rx="3" fill="#663399"/>
+<rect x="969.6" y="0" width="20.7" height="12" rx="3" fill="#E34C26"/>
+<rect x="995.3" y="0" width="6.0" height="12" rx="3" fill="#7D8590"/>
 </svg>
