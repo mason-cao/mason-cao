@@ -19,7 +19,7 @@ I'm a student developing purpose oriented apps and projects. Try them out, and f
 
 <a href="https://github.com/mason-cao/multi-agent-customer-intelligence-dashboard"><img align="middle" width="18" height="18" src="assets/g-novacore.svg" alt=""></a> &nbsp;**[Nova Core](https://github.com/mason-cao/multi-agent-customer-intelligence-dashboard)** &nbsp;<sub>Customer analytics with churn scores that explain themselves.</sub> &nbsp;<sub>[Live ↗](https://nova-core-systems.vercel.app)</sub>
 
-<a href="https://github.com/ximena-pg-projects/green-spark-ai"><img align="middle" width="18" height="18" src="assets/g-greenspark.svg" alt=""></a> &nbsp;**[Green Spark AI](https://github.com/ximena-pg-projects/green-spark-ai)** &nbsp;<sub>Turns school utility bills into a ranked fix list.</sub>
+<a href="https://github.com/ximena-pg-projects/green-spark-ai"><img align="middle" width="18" height="18" src="assets/g-greenspark.svg" alt=""></a> &nbsp;**[Green Spark AI](https://github.com/ximena-pg-projects/green-spark-ai)** &nbsp;<sub>Turns school utility bills into a ranked fix list.</sub> &nbsp;<sub>[Live ↗](https://green-spark-ai-eosin.vercel.app/)</sub>
 
 <!-- langs:start -->
 <img src="assets/langs.svg" width="100%" alt="Language mix across 15 repositories: Python 63 percent, TypeScript 22 percent, JavaScript 8 percent, CSS 5 percent, HTML 2 percent.">
