@@ -22,9 +22,9 @@ I'm a student developing purpose oriented apps and projects. Try them out, and f
 <a href="https://github.com/ximena-pg-projects/green-spark-ai"><img align="middle" width="18" height="18" src="assets/g-greenspark.svg" alt=""></a> &nbsp;**[Green Spark AI](https://github.com/ximena-pg-projects/green-spark-ai)** &nbsp;<sub>Turns school utility bills into a ranked fix list.</sub> &nbsp;<sub>[Live ↗](https://green-spark-ai-eosin.vercel.app/)</sub>
 
 <!-- langs:start -->
-<img src="assets/langs.svg" width="100%" alt="Language mix across 15 repositories: Python 64 percent, TypeScript 21 percent, JavaScript 7 percent, CSS 4 percent, HTML 3 percent.">
+<img src="assets/langs.svg" width="100%" alt="Language mix across 15 repositories: Python 56 percent, TypeScript 17 percent, HTML 16 percent, JavaScript 6 percent, CSS 4 percent.">
 
-<sub><samp>PYTHON 64%&nbsp;&nbsp;·&nbsp;&nbsp;TYPESCRIPT 21%&nbsp;&nbsp;·&nbsp;&nbsp;JAVASCRIPT 7%&nbsp;&nbsp;·&nbsp;&nbsp;CSS 4%&nbsp;&nbsp;·&nbsp;&nbsp;HTML 3%</samp></sub>
+<sub><samp>PYTHON 56%&nbsp;&nbsp;·&nbsp;&nbsp;TYPESCRIPT 17%&nbsp;&nbsp;·&nbsp;&nbsp;HTML 16%&nbsp;&nbsp;·&nbsp;&nbsp;JAVASCRIPT 6%&nbsp;&nbsp;·&nbsp;&nbsp;CSS 4%</samp></sub>
 <!-- langs:end -->
 
 <sub><samp>[PERSONAL WEBSITE](https://mason-cao.github.io/)&nbsp;&nbsp;·&nbsp;&nbsp;[LINKEDIN](https://www.linkedin.com/in/mason-cao-7a3760390/)&nbsp;&nbsp;·&nbsp;&nbsp;[EMAIL](mailto:masoncao7@gmail.com)</samp></sub>
